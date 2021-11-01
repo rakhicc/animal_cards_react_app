@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap");
 .App {
   text-align: center;
 }
@@ -15,11 +16,34 @@
   display: inline-block;
   width: 200px;
   height: 200px;
-  background-color: darksalmon;
+  background-color: rgb(245, 240, 238);
   margin: 15px;
 }
 .animalCard img {
   width: 100%;
+}
+.home {
+  padding: 4rem;
+  margin: 1rem;
+}
+.about {
+  padding: 4rem;
+  margin: 1rem;
+}
+.navbar nav ul {
+  list-style-type: none;
+  display: flex;
+  font-size: 2rem;
+  justify-content: space-between;
+  margin: 1rem;
+  background-color: azure;
+}
+h1 {
+  font-family: "Merriweather", serif;
+  color: crimson;
+  font-size: 3rem;
+  align-content: center;
+  text-align: center;
 }
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
