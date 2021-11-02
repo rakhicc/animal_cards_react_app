@@ -3,3 +3,4 @@
 ## screenshot
 
 - ![screenshot of animal cards](animalcard.png)
+- ![screenshot of animal cards](search.png)
