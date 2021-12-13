@@ -6,6 +6,6 @@
 - By using search functionality we can search for a particular animal
 ## screenshot
 
-- ![screenshot of animal cards](animalcard.png)
-- ![screenshot of search functionality](animalsearch.png)
-- ![screenshot of a single animal details page](animalsingle.png)
+![screenshot of animal cards](animalcard.png)
+![screenshot of search functionality](animalsearch.png)
+![screenshot of a single animal details page](animalsingle.png)
