@@ -7,11 +7,11 @@ import About from "./About";
 const Main = () => {
   return (
     <div>
-      <switch>
+      <Switch>
         <Route path="/" exact component={Home} />
         <Route path="/about" component={About} />
         <Route path="/animals" component={AnimalsList} />
-      </switch>
+      </Switch>
     </div>
   );
 };
