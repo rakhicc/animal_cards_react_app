@@ -7,5 +7,5 @@
 ## screenshot
 
 - ![screenshot of animal cards](animalcard.png)
-- ![screenshot of animal cards](search.png)
-- ![screenshot of animal cards](search.png)
+- ![screenshot of search functionality](animalsearch.png)
+- ![screenshot of animal cards](sanimalsingle.png)
